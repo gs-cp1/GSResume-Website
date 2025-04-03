@@ -1,1 +1,1 @@
-https://gs-cp1.github.io/Resume-Website/
+https://gs-cp1.github.io/GSResume-Website/
